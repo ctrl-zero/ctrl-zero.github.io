@@ -16,18 +16,18 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81NTg0NS8zMjMwOQ  # https://www.livere.com
-    disqus: fencho0v0
+    disqus: https-joke4fun-github-io-3
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+#    weibo: 5366874726
+    github: joke4fun
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+#    jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 904354101@qq.com
 
 
 # 百度统计 
