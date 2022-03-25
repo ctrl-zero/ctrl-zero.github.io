@@ -1,5 +1,5 @@
 # Basic
-title: fengchao
+title: fencho
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
@@ -7,6 +7,8 @@ avatarTitle: fencho
 # 头像里面的描述
 avatarDesc: js / java
 url: "http://leopardpan.cn"
+
+welcome_message: 亦专于业亦专情 不负代码不负卿
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
